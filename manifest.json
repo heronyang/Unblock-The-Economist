@@ -5,20 +5,8 @@
     "version": "1.0",
 
     "permissions": [
-        "tabs", "*://www.economist.com/*"
+        "cookies", "*://www.economist.com/*"
     ],
-
-    "background": {
-        "persistent": true,
-        "scripts": [
-            "background.js"
-        ]
-    },
-
-    "browser_action": {
-        "default_icon": "icon.png",
-        "default_title": "Start to Unblock!"
-    },
 
     "content_scripts": [
         {
