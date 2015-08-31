@@ -1,3 +1,3 @@
-# Chrome Extension Template
+# Unblock The Economist
 
-This is a template file for chrome extension, which allows you to start a chrome extension project faster.
+This is a testing Chrome Extension which allows the user to read articles on The Economist official website without any limitation.
